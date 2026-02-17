@@ -1,0 +1,38 @@
+{
+  "$GMProject":"v1",
+  "%Name":"GM48 test thingy",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.1.210",
+  },
+  "name":"GM48 test thingy",
+  "resources":[
+    {"id":{"name":"obj_object1","path":"objects/obj_object1/obj_object1.yy",},},
+    {"id":{"name":"kld","path":"rooms/kld/kld.yy",},},
+    {"id":{"name":"rm_room1_2","path":"rooms/rm_room1_2/rm_room1_2.yy",},},
+    {"id":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
+    {"roomId":{"name":"kld","path":"rooms/kld/kld.yy",},},
+    {"roomId":{"name":"rm_room1_2","path":"rooms/rm_room1_2/rm_room1_2.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
