@@ -1,1 +1,1 @@
-Yo mama
+window_set_caption("this is an example of changing the text");
