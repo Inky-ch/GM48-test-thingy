@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_object1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_note_table",
+  "eventList":[],
   "managed":true,
-  "name":"obj_object1",
+  "name":"obj_note_table",
   "overriddenProperties":[],
   "parent":{
     "name":"GM48 test thingy",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_note_table",
+    "path":"sprites/spr_note_table/spr_note_table.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
