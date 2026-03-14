@@ -15,7 +15,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"GM48 test thingy",
   "resources":[
@@ -24,22 +24,9 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
     {"id":{"name":"scr_movement","path":"scripts/scr_movement/scr_movement.yy",},},
-    {"id":{"name":"Cube","path":"sprites/Cube/Cube.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
     {"id":{"name":"spr_plr","path":"sprites/spr_plr/spr_plr.yy",},},
     {"id":{"name":"spr_wall_tile","path":"sprites/spr_wall_tile/spr_wall_tile.yy",},},
-<<<<<<< HEAD
-    {"id":{"name":"Tile_1","path":"sprites/Tile_1/Tile_1.yy",},},
-    {"id":{"name":"Tile_2","path":"sprites/Tile_2/Tile_2.yy",},},
-<<<<<<< HEAD
-    {"id":{"name":"Wall_cube","path":"sprites/Wall_cube/Wall_cube.yy",},},
-=======
->>>>>>> parent of d855e6f (Revert "wall")
-    {"id":{"name":"Wall_left","path":"sprites/Wall_left/Wall_left.yy",},},
-    {"id":{"name":"Wall_right","path":"sprites/Wall_right/Wall_right.yy",},},
-    {"id":{"name":"Wall_top","path":"sprites/Wall_top/Wall_top.yy",},},
-=======
->>>>>>> parent of bda9b17 (Merge branch 'main' of https://github.com/Inky-ch/GM48-test-thingy)
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
