@@ -20,9 +20,12 @@
   "name":"GM48 test thingy",
   "resources":[
     {"id":{"name":"obj_floor_tile","path":"objects/obj_floor_tile/obj_floor_tile.yy",},},
+    {"id":{"name":"obj_plr","path":"objects/obj_plr/obj_plr.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
+    {"id":{"name":"scr_movement","path":"scripts/scr_movement/scr_movement.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_plr","path":"sprites/spr_plr/spr_plr.yy",},},
     {"id":{"name":"spr_wall_tile","path":"sprites/spr_wall_tile/spr_wall_tile.yy",},},
   ],
   "resourceType":"GMProject",
