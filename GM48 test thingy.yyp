@@ -15,10 +15,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.1.210",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"GM48 test thingy",
   "resources":[
+    {"id":{"name":"Font_8x8","path":"fonts/Font_8x8/Font_8x8.yy",},},
     {"id":{"name":"obj_floor_tile","path":"objects/obj_floor_tile/obj_floor_tile.yy",},},
     {"id":{"name":"obj_plr","path":"objects/obj_plr/obj_plr.yy",},},
     {"id":{"name":"obj_ui","path":"objects/obj_ui/obj_ui.yy",},},
