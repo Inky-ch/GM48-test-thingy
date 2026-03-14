@@ -18,10 +18,18 @@
     "IDEVersion":"2024.14.1.210",
   },
   "name":"GM48 test thingy",
-  "resources":[],
+  "resources":[
+    {"id":{"name":"obj_floor_tile","path":"objects/obj_floor_tile/obj_floor_tile.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
+    {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_wall_tile","path":"sprites/spr_wall_tile/spr_wall_tile.yy",},},
+  ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_room1","path":"rooms/rm_room1/rm_room1.yy",},},
+  ],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
