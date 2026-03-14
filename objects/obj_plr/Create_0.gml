@@ -3,3 +3,4 @@ target_y = y;
 
 move_speed = 1;
 moving = false;
+depth = -100;

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_ui",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_ui",
   "overriddenProperties":[],
   "parent":{
     "name":"GM48 test thingy",
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_wall_tile",
-    "path":"sprites/spr_wall_tile/spr_wall_tile.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
