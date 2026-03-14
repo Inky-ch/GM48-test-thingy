@@ -6,22 +6,22 @@ function move(dir)
     {
         case "up":
             target_x = x + 8;
-            target_y = y - 8;
+            target_y = y - 5;
             break;
         
         case "down":
             target_x = x - 8;
-            target_y = y + 8;
+            target_y = y + 5;
             break;
         
         case "left":
             target_x = x - 8;
-            target_y = y - 8;
+            target_y = y - 5;
             break;
         
         case "right":
             target_x = x + 8;
-            target_y = y + 8;
+            target_y = y + 5;
             break;
     }
 
