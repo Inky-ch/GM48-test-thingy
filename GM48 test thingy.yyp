@@ -10,6 +10,7 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"Player sprites","folderPath":"folders/Player sprites.yy","name":"Player sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Level sprites","folderPath":"folders/Level sprites.yy","name":"Level sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI sprites","folderPath":"folders/UI sprites.yy","name":"UI sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -18,7 +19,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.1.210",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"GM48 test thingy",
   "resources":[
@@ -79,6 +80,10 @@
     {"id":{"name":"Level_9","path":"sprites/Level_9/Level_9.yy",},},
     {"id":{"name":"Pause","path":"sprites/Pause/Pause.yy",},},
     {"id":{"name":"Retry","path":"sprites/Retry/Retry.yy",},},
+    {"id":{"name":"Slime_left_back","path":"sprites/Slime_left_back/Slime_left_back.yy",},},
+    {"id":{"name":"Slime_left","path":"sprites/Slime_left/Slime_left.yy",},},
+    {"id":{"name":"Slime_right_back","path":"sprites/Slime_right_back/Slime_right_back.yy",},},
+    {"id":{"name":"Slime_right","path":"sprites/Slime_right/Slime_right.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
     {"id":{"name":"spr_icons","path":"sprites/spr_icons/spr_icons.yy",},},
