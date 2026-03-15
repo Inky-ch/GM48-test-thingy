@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"GM48 test thingy",
-    "path":"GM48 test thingy.yyp",
+    "name":"UI sprites",
+    "path":"folders/UI sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
