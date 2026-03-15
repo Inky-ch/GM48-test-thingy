@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_plr",
-    "path":"sprites/spr_plr/spr_plr.yy",
+    "name":"Slime_right",
+    "path":"sprites/Slime_right/Slime_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
